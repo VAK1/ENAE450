@@ -88,13 +88,13 @@ class TurtleController:
         self.teleport_turtle(7.0, 8.0)
         self.draw_shape(self.draw_square)
 
-        # Draw circle
-        self.teleport_turtle(2.0, 2.0)
-        self.draw_shape(self.draw_circle)
-
         # Draw decagon
-        self.teleport_turtle(7.0, 2.0)
+        self.teleport_turtle(2.0, 2.0)
         self.draw_shape(self.draw_decagon)
+
+        # Draw circle
+        self.teleport_turtle(7.0, 2.0)
+        self.draw_shape(self.draw_circle)
 
 def main():
     controller = TurtleController(

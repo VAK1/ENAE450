@@ -1,0 +1,172 @@
+[0.013s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface -- -j6 -l6
+[0.088s] [  1%] Built target hw4_interface__cpp
+[0.092s] [ 12%] Built target hw4_interface__rosidl_generator_c
+[0.096s] [ 12%] Built target ament_cmake_python_symlink_hw4_interface
+[0.113s] [ 36%] Built target hw4_interface__rosidl_typesupport_introspection_cpp
+[0.113s] [ 41%] Built target hw4_interface__rosidl_typesupport_cpp
+[0.113s] [ 45%] Built target hw4_interface__rosidl_typesupport_introspection_c
+[0.114s] [ 56%] Built target hw4_interface__rosidl_typesupport_fastrtps_cpp
+[0.120s] [ 67%] Built target hw4_interface__rosidl_typesupport_c
+[0.122s] [ 78%] Built target hw4_interface__rosidl_typesupport_fastrtps_c
+[0.134s] [ 78%] Built target hw4_interface
+[0.150s] [ 80%] Built target hw4_interface__py
+[0.167s] [ 89%] Built target hw4_interface__rosidl_generator_py
+[0.187s] [ 92%] Built target hw4_interface__rosidl_typesupport_introspection_c__pyext
+[0.188s] [ 96%] Built target hw4_interface__rosidl_typesupport_fastrtps_c__pyext
+[0.193s] [100%] Built target hw4_interface__rosidl_typesupport_c__pyext
+[0.273s] running egg_info
+[0.273s] writing hw4_interface.egg-info/PKG-INFO
+[0.273s] writing dependency_links to hw4_interface.egg-info/dependency_links.txt
+[0.273s] writing top-level names to hw4_interface.egg-info/top_level.txt
+[0.275s] reading manifest file 'hw4_interface.egg-info/SOURCES.txt'
+[0.275s] writing manifest file 'hw4_interface.egg-info/SOURCES.txt'
+[0.290s] [100%] Built target ament_cmake_python_build_hw4_interface_egg
+[0.298s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface -- -j6 -l6
+[0.382s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface
+[0.386s] -- Install configuration: ""
+[0.387s] -- Execute custom install script
+[0.387s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/ament_index/resource_index/rosidl_interfaces/hw4_interface
+[0.388s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__functions.h
+[0.388s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__struct.h
+[0.388s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__type_support.h
+[0.388s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__functions.h
+[0.388s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__struct.h
+[0.389s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__type_support.h
+[0.389s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/rosidl_generator_c__visibility_control.h
+[0.389s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/turtle.h
+[0.389s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/turtle_array.h
+[0.389s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/catch_turtle.h
+[0.389s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__functions.h
+[0.389s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__struct.h
+[0.389s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__type_support.h
+[0.389s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__functions.h
+[0.390s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__struct.h
+[0.390s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__type_support.h
+[0.390s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/function_select.h
+[0.390s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/environment/library_path.sh
+[0.390s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/environment/library_path.dsv
+[0.390s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__rosidl_typesupport_fastrtps_c.h
+[0.391s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__rosidl_typesupport_fastrtps_c.h
+[0.391s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.391s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__rosidl_typesupport_fastrtps_c.h
+[0.391s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__rosidl_typesupport_fastrtps_c.h
+[0.391s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__builder.hpp
+[0.391s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__struct.hpp
+[0.392s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__traits.hpp
+[0.392s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__builder.hpp
+[0.392s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__struct.hpp
+[0.392s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__traits.hpp
+[0.392s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/turtle.hpp
+[0.392s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/turtle_array.hpp
+[0.392s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/catch_turtle.hpp
+[0.392s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__builder.hpp
+[0.392s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__struct.hpp
+[0.393s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__traits.hpp
+[0.393s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__builder.hpp
+[0.393s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__struct.hpp
+[0.393s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__traits.hpp
+[0.393s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/function_select.hpp
+[0.394s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__rosidl_typesupport_fastrtps_cpp.hpp
+[0.394s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__rosidl_typesupport_fastrtps_cpp.hpp
+[0.394s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.394s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__rosidl_typesupport_fastrtps_cpp.hpp
+[0.394s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__rosidl_typesupport_fastrtps_cpp.hpp
+[0.394s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__rosidl_typesupport_introspection_c.h
+[0.394s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__rosidl_typesupport_introspection_c.h
+[0.395s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.395s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__rosidl_typesupport_introspection_c.h
+[0.395s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__rosidl_typesupport_introspection_c.h
+[0.395s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle__rosidl_typesupport_introspection_cpp.hpp
+[0.395s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/msg/detail/turtle_array__rosidl_typesupport_introspection_cpp.hpp
+[0.395s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/catch_turtle__rosidl_typesupport_introspection_cpp.hpp
+[0.395s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/include/hw4_interface/hw4_interface/srv/detail/function_select__rosidl_typesupport_introspection_cpp.hpp
+[0.396s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/environment/pythonpath.sh
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/environment/pythonpath.dsv
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface-0.0.0-py3.10.egg-info/top_level.txt
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/__init__.py
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/_hw4_interface_s.ep.rosidl_typesupport_c.c
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/_hw4_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/_hw4_interface_s.ep.rosidl_typesupport_introspection_c.c
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/hw4_interface_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[0.397s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/hw4_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/hw4_interface_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/libhw4_interface__rosidl_generator_py.so
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/msg/__init__.py
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/msg/_turtle.py
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/msg/_turtle_array.py
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/msg/_turtle_array_s.c
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/msg/_turtle_s.c
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/srv/__init__.py
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/srv/_catch_turtle.py
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/srv/_catch_turtle_s.c
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/srv/_function_select.py
+[0.398s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/srv/_function_select_s.c
+[0.399s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/hw4_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[0.399s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/hw4_interface_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[0.399s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/hw4_interface_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[0.399s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/msg/Turtle.idl
+[0.400s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/msg/TurtleArray.idl
+[0.400s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/srv/CatchTurtle.idl
+[0.400s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/srv/FunctionSelect.idl
+[0.400s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/msg/Turtle.msg
+[0.400s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/msg/TurtleArray.msg
+[0.400s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/srv/CatchTurtle.srv
+[0.400s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/srv/CatchTurtle_Request.msg
+[0.400s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/srv/CatchTurtle_Response.msg
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/srv/FunctionSelect.srv
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/srv/FunctionSelect_Request.msg
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/srv/FunctionSelect_Response.msg
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/ament_index/resource_index/package_run_dependencies/hw4_interface
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/ament_index/resource_index/parent_prefix_path/hw4_interface
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/environment/ament_prefix_path.sh
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/environment/ament_prefix_path.dsv
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/environment/path.sh
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/environment/path.dsv
+[0.401s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/local_setup.bash
+[0.402s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/local_setup.sh
+[0.402s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/local_setup.zsh
+[0.402s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/local_setup.dsv
+[0.402s] -- Symlinking: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/package.dsv
+[0.408s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/ament_index/resource_index/packages/hw4_interface
+[0.408s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/rosidl_cmake-extras.cmake
+[0.408s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.408s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[0.408s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/ament_cmake_export_targets-extras.cmake
+[0.408s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.409s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.409s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.409s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interfaceConfig.cmake
+[0.413s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interfaceConfig-version.cmake
+[0.413s] -- Up-to-date symlink: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/package.xml
+[0.413s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/lib/libhw4_interface__rosidl_generator_c.so
+[0.413s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/lib/libhw4_interface__rosidl_typesupport_fastrtps_c.so
+[0.414s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/lib/libhw4_interface__rosidl_typesupport_fastrtps_cpp.so
+[0.414s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/lib/libhw4_interface__rosidl_typesupport_introspection_c.so
+[0.414s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/lib/libhw4_interface__rosidl_typesupport_c.so
+[0.414s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/lib/libhw4_interface__rosidl_typesupport_introspection_cpp.so
+[0.414s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/lib/libhw4_interface__rosidl_typesupport_cpp.so
+[0.432s] Listing '/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface'...
+[0.432s] Listing '/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/msg'...
+[0.432s] Listing '/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/local/lib/python3.10/dist-packages/hw4_interface/srv'...
+[0.434s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/lib/libhw4_interface__rosidl_generator_py.so
+[0.435s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/export_hw4_interface__rosidl_generator_cExport.cmake
+[0.435s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/export_hw4_interface__rosidl_generator_cExport-noconfig.cmake
+[0.435s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/export_hw4_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/export_hw4_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/export_hw4_interface__rosidl_generator_cppExport.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/export_hw4_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/export_hw4_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interface__rosidl_typesupport_introspection_cExport.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interface__rosidl_typesupport_cExport.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interface__rosidl_typesupport_cExport-noconfig.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interface__rosidl_typesupport_introspection_cppExport.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.436s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interface__rosidl_typesupport_cppExport.cmake
+[0.437s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/hw4_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[0.437s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/export_hw4_interface__rosidl_generator_pyExport.cmake
+[0.437s] -- Up-to-date: /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface/share/hw4_interface/cmake/export_hw4_interface__rosidl_generator_pyExport-noconfig.cmake
+[0.444s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface
