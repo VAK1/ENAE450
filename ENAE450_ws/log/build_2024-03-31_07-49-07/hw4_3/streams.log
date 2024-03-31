@@ -1,0 +1,20 @@
+[0.517s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build --no-deps symlink_data
+[0.670s] running develop
+[0.758s] running egg_info
+[0.759s] writing hw4_3.egg-info/PKG-INFO
+[0.759s] writing dependency_links to hw4_3.egg-info/dependency_links.txt
+[0.759s] writing entry points to hw4_3.egg-info/entry_points.txt
+[0.759s] writing requirements to hw4_3.egg-info/requires.txt
+[0.759s] writing top-level names to hw4_3.egg-info/top_level.txt
+[0.760s] reading manifest file 'hw4_3.egg-info/SOURCES.txt'
+[0.760s] writing manifest file 'hw4_3.egg-info/SOURCES.txt'
+[0.761s] running build_ext
+[0.762s] Creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4-3.egg-link (link to .)
+[0.762s] Installing turtle_driver script to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/hw4_3
+[0.762s] Installing turtle_spawner script to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/hw4_3
+[0.762s] 
+[0.763s] Installed /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3
+[0.763s] running symlink_data
+[0.763s] creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/share/hw4_3/launch
+[0.763s] symbolically linking /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/launch/turtle_war_launch.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/share/hw4_3/launch
+[0.788s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3' returned '0': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build --no-deps symlink_data
