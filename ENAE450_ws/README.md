@@ -1,30 +1,34 @@
 Name: Vikram Khandelwal
 
-# ROS2 TurtleSim Projects
+# ROS2 TurtleSim Projects (Extra Credit Edition)
 
-This repository contains three unique ROS2 packages designed for different purposes related to TurtleSim, an educational tool for learning about ROS (Robot Operating System) concepts. Each package aims to demonstrate various functionalities through interactive visual demonstrations using the TurtleSim environment.
+This repository showcases three advanced ROS2 packages utilizing TurtleSim for educational and demonstration purposes. Each package has been designed with unique features intended for extra credit, highlighting complex functionalities and creative uses of ROS concepts.
 
 ## Package 1: hw4_1 (Geometry Figures)
 
-- **Description**: This package allows the turtle to draw a series of geometric figures including a triangle, a square, a decagon, and a full circle.
+- **Description**: This package commands the turtle to draw intricate geometric figures: a triangle, a square, a decagon, and a full circle, showcasing advanced motion planning and drawing techniques.
 - **Run Command**: `ros2 launch hw4_1 draw_shapes_launch.py`
-- **Notes**: The pen is strategically set and unset to avoid traces between shapes. The package may require multiple attempts to run successfully due to a known issue. Terminate with `ctrl+C` and rerun if necessary.
+- **Extra Credit**: The intelligent use of pen set and unset commands ensures clean transitions between shapes, presenting a challenge in precise control and planning.
 
 ## Package 2: hw4_2 (Trajectory Following)
 
-- **Description**: Generates personalized graphs with the turtle simulating a line, a sine wave, and a cubic function sequentially. Each graph is cleared from the screen before drawing the next.
+- **Description**: Engage with personalized graph drawings! Experience the turtle drawing a line, a sine wave, and a cubic function, with each graph cleared before the next.
 - **Run Command for Graph Generation**: `ros2 launch hw4_2 draw_graphs_launch.py k:=<scale> w:=<squeeze>`
-- **Parameters**: `k` (scale) and `w` (squeeze) are customizable parameters for the graph shapes.
-- **Extra Feature**: A service to select a specific function to graph. 
-- **Run Command for Function Selection**: Run `ros2 launch hw4_2 select_graphs_launch.py` in one terminal pane. Then, in another, run `ros2 service call /select_function hw4_interface/srv/FunctionSelect "{function_id: <1 for sine or 2 for cubic>}"`.
+- **Parameters**: `k` (scale) and `w` (squeeze) for custom graph shapes, a demonstration of parameterized programming in ROS.
+- **Extra Credit**: 
+  - **Customizable Parameters**: Implementing `k` and `w` as parameters for graph customization.
+  - **Function Selection Service**: A special service allowing users to select the specific function to graph, showcasing the development and integration of custom ROS services.
+  - **Run Command for Function Selection**: Run `ros2 launch hw4_2 select_graphs_launch.py` in one terminal, then `ros2 service call /select_function hw4_interface/srv/FunctionSelect "{function_id: <1 for sine or 2 for cubic>}"` in another.
 
 ## Package 3: hw4_3 (Turtle Following a.k.a Turtle War)
 
-- **Description**: The protagonist turtle navigates to fend off the closest spawning turtles. The package demonstrates dynamic object interaction and response strategies within the TurtleSim environment.
+- **Description**: A thrilling simulation where the protagonist turtle must identify and fend off the closest spawning turtles, demonstrating dynamic target tracking and engagement in a continuously evolving environment.
 - **Run Command**: `ros2 launch hw4_3 turtle_war_launch.py`
-- **Gameplay**: Initially, 2-4 target turtles spawn as opponents. The protagonist turtle identifies and eliminates the closest target by colliding with them, removing them from the list of opponents. Collisions with walls will respawn the protagonist turtle at the center.
+- **Extra Credit**:
+  - **Dynamic Opponent Identification and Engagement**: Advanced algorithms for nearest opponent identification and engagement strategy.
+  - **Auto-Respawn Mechanism**: Innovatively handling collisions with walls by auto-respawning the protagonist at the center, showcasing error handling and recovery strategies.
 
 ## Acknowledgments
 
-A special thanks for the opportunity to engage in this educational project. The experience gained in developing these packages has been invaluable in understanding the intricacies of ROS2 and robotic simulations.
+Heartfelt thanks for this immensely educational project, offering a platform to explore and implement advanced ROS2 functionalities and custom features aimed at achieving extra credit. The learning experience has profoundly deepened my understanding of robotics simulation and software engineering principles in ROS.
 
