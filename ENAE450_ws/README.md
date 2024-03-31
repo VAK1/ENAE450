@@ -1,6 +1,6 @@
 Name: Vikram Khandelwal
 
-# ROS2 TurtleSim Projects
+# Homework 4: ROS2 TurtleSim Projects
 
 This repository showcases three advanced ROS2 packages utilizing TurtleSim for educational and demonstration purposes. Each package has been designed with unique features intended for extra credit, highlighting complex functionalities and creative uses of ROS concepts.
 
