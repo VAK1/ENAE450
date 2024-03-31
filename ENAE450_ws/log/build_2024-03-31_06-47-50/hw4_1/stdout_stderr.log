@@ -1,0 +1,19 @@
+running develop
+running egg_info
+writing hw4_1.egg-info/PKG-INFO
+writing dependency_links to hw4_1.egg-info/dependency_links.txt
+writing entry points to hw4_1.egg-info/entry_points.txt
+writing requirements to hw4_1.egg-info/requires.txt
+writing top-level names to hw4_1.egg-info/top_level.txt
+reading manifest file 'hw4_1.egg-info/SOURCES.txt'
+writing manifest file 'hw4_1.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages/hw4-1.egg-link (link to .)
+Installing draw_shapes script to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/hw4_1
+
+Installed /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1
+running symlink_data
+symbolically linking /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/resource/hw4_1 -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/ament_index/resource_index/packages
+error: [Errno 2] No such file or directory: '/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/hw4_1/launch/draw_shapes_launch.py'
+symbolically linking /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/package.xml -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/hw4_1
+creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/hw4_1/launch

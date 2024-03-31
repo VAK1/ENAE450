@@ -9,7 +9,13 @@ setup.py
 ../../build/hw4_1/hw4_1.egg-info/top_level.txt
 ../../build/hw4_1/hw4_1.egg-info/zip-safe
 hw4_1/__init__.py
+hw4_1/draw_shapes.py
+hw4_1.egg-info/PKG-INFO
+hw4_1.egg-info/SOURCES.txt
+hw4_1.egg-info/dependency_links.txt
+hw4_1.egg-info/entry_points.txt
+hw4_1.egg-info/requires.txt
+hw4_1.egg-info/top_level.txt
+hw4_1.egg-info/zip-safe
+launch/draw_shapes_launch.py
 resource/hw4_1
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py

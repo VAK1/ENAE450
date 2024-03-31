@@ -1,0 +1,21 @@
+[0.457s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/build --no-deps symlink_data --force
+[0.610s] running develop
+[0.689s] running egg_info
+[0.689s] writing hw4_1.egg-info/PKG-INFO
+[0.689s] writing dependency_links to hw4_1.egg-info/dependency_links.txt
+[0.689s] writing entry points to hw4_1.egg-info/entry_points.txt
+[0.689s] writing requirements to hw4_1.egg-info/requires.txt
+[0.690s] writing top-level names to hw4_1.egg-info/top_level.txt
+[0.691s] reading manifest file 'hw4_1.egg-info/SOURCES.txt'
+[0.691s] writing manifest file 'hw4_1.egg-info/SOURCES.txt'
+[0.692s] running build_ext
+[0.692s] Creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages/hw4-1.egg-link (link to .)
+[0.693s] Installing draw_shapes script to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/hw4_1
+[0.693s] 
+[0.693s] Installed /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1
+[0.693s] running symlink_data
+[0.693s] symbolically linking /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/resource/hw4_1 -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/ament_index/resource_index/packages
+[0.694s] error: [Errno 2] No such file or directory: '/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/hw4_1/launch/draw_shapes_launch.py'
+[0.694s] symbolically linking /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/package.xml -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/hw4_1
+[0.694s] creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/hw4_1/launch
+[0.711s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1' returned '1': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/build --no-deps symlink_data --force

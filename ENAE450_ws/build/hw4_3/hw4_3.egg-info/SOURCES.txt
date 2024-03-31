@@ -9,7 +9,11 @@ setup.py
 ../../build/hw4_3/hw4_3.egg-info/top_level.txt
 ../../build/hw4_3/hw4_3.egg-info/zip-safe
 hw4_3/__init__.py
+hw4_3.egg-info/PKG-INFO
+hw4_3.egg-info/SOURCES.txt
+hw4_3.egg-info/dependency_links.txt
+hw4_3.egg-info/entry_points.txt
+hw4_3.egg-info/requires.txt
+hw4_3.egg-info/top_level.txt
+hw4_3.egg-info/zip-safe
 resource/hw4_3
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py

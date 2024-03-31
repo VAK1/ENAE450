@@ -1,0 +1,24 @@
+running develop
+Removing /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4-3.egg-link (link to .)
+running egg_info
+writing ../../build/hw4_3/hw4_3.egg-info/PKG-INFO
+writing dependency_links to ../../build/hw4_3/hw4_3.egg-info/dependency_links.txt
+writing entry points to ../../build/hw4_3/hw4_3.egg-info/entry_points.txt
+writing requirements to ../../build/hw4_3/hw4_3.egg-info/requires.txt
+writing top-level names to ../../build/hw4_3/hw4_3.egg-info/top_level.txt
+reading manifest file '../../build/hw4_3/hw4_3.egg-info/SOURCES.txt'
+writing manifest file '../../build/hw4_3/hw4_3.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3
+copying /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build/lib/hw4_3/__init__.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3
+byte-compiling /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/hw4_3 -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/share/hw4_3
+running install_egg_info
+Copying ../../build/hw4_3/hw4_3.egg-info to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/install.log'
