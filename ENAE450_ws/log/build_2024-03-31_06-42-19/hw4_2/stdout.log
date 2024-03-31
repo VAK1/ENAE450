@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/hw4_2/hw4_2.egg-info
+writing ../../build/hw4_2/hw4_2.egg-info/PKG-INFO
+writing dependency_links to ../../build/hw4_2/hw4_2.egg-info/dependency_links.txt
+writing entry points to ../../build/hw4_2/hw4_2.egg-info/entry_points.txt
+writing requirements to ../../build/hw4_2/hw4_2.egg-info/requires.txt
+writing top-level names to ../../build/hw4_2/hw4_2.egg-info/top_level.txt
+writing manifest file '../../build/hw4_2/hw4_2.egg-info/SOURCES.txt'
+reading manifest file '../../build/hw4_2/hw4_2.egg-info/SOURCES.txt'
+writing manifest file '../../build/hw4_2/hw4_2.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/build
+creating /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/build/lib
+creating /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/build/lib/hw4_2
+copying hw4_2/__init__.py -> /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/build/lib/hw4_2
+running install
+running install_lib
+creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/lib/python3.10/site-packages/hw4_2
+copying /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/build/lib/hw4_2/__init__.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/lib/python3.10/site-packages/hw4_2
+byte-compiling /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/lib/python3.10/site-packages/hw4_2/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/share
+creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/share/ament_index
+creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/share/ament_index/resource_index
+creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/share/ament_index/resource_index/packages
+copying resource/hw4_2 -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/share/ament_index/resource_index/packages
+creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/share/hw4_2
+copying package.xml -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/share/hw4_2
+running install_egg_info
+Copying ../../build/hw4_2/hw4_2.egg-info to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/lib/python3.10/site-packages/hw4_2-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/install.log'
