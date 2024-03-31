@@ -41,6 +41,8 @@ class GraphDrawer:
         self.draw_straight_line(11.0)
         time.sleep(2)
 
+        self.clear_screen()
+
         # Draw the sine wave
         self.set_pen_state(True)
         self.teleport(0.0, math.sin(-5.5) + 5.5, 0.0)

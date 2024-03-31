@@ -1,0 +1,18 @@
+[0.404s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/build --no-deps symlink_data
+[0.551s] running develop
+[0.628s] running egg_info
+[0.628s] writing hw4_2.egg-info/PKG-INFO
+[0.628s] writing dependency_links to hw4_2.egg-info/dependency_links.txt
+[0.628s] writing entry points to hw4_2.egg-info/entry_points.txt
+[0.628s] writing requirements to hw4_2.egg-info/requires.txt
+[0.628s] writing top-level names to hw4_2.egg-info/top_level.txt
+[0.629s] reading manifest file 'hw4_2.egg-info/SOURCES.txt'
+[0.629s] writing manifest file 'hw4_2.egg-info/SOURCES.txt'
+[0.630s] running build_ext
+[0.630s] Creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/lib/python3.10/site-packages/hw4-2.egg-link (link to .)
+[0.631s] Installing draw_graphs script to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/lib/hw4_2
+[0.631s] Installing select_graphs script to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/lib/hw4_2
+[0.631s] 
+[0.631s] Installed /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2
+[0.631s] running symlink_data
+[0.647s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2' returned '0': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_2/build --no-deps symlink_data

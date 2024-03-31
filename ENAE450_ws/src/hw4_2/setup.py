@@ -23,7 +23,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "draw_graphs= hw4_2.draw_graphs:main"
+            "draw_graphs = hw4_2.draw_graphs:main",
+            "select_graphs = hw4_2.select_graphs:main"
         ],
     },
 )

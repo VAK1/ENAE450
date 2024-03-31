@@ -1,0 +1,16 @@
+[0.580s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build --no-deps symlink_data
+[0.743s] running develop
+[0.830s] running egg_info
+[0.830s] writing hw4_3.egg-info/PKG-INFO
+[0.830s] writing dependency_links to hw4_3.egg-info/dependency_links.txt
+[0.830s] writing entry points to hw4_3.egg-info/entry_points.txt
+[0.830s] writing requirements to hw4_3.egg-info/requires.txt
+[0.830s] writing top-level names to hw4_3.egg-info/top_level.txt
+[0.831s] reading manifest file 'hw4_3.egg-info/SOURCES.txt'
+[0.831s] writing manifest file 'hw4_3.egg-info/SOURCES.txt'
+[0.832s] running build_ext
+[0.832s] Creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4-3.egg-link (link to .)
+[0.833s] 
+[0.833s] Installed /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3
+[0.833s] running symlink_data
+[0.854s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3' returned '0': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build --no-deps symlink_data
