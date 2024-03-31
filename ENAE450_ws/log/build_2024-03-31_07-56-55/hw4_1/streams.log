@@ -1,0 +1,32 @@
+[0.383s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/build
+[0.529s] running develop
+[0.611s] Removing /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages/hw4-1.egg-link (link to .)
+[0.629s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1' returned '0': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/build
+[0.630s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_1': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hw4_1 build --build-base /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/build install --record /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/install.log --single-version-externally-managed install_data --force
+[0.768s] running egg_info
+[0.768s] writing ../../build/hw4_1/hw4_1.egg-info/PKG-INFO
+[0.768s] writing dependency_links to ../../build/hw4_1/hw4_1.egg-info/dependency_links.txt
+[0.768s] writing entry points to ../../build/hw4_1/hw4_1.egg-info/entry_points.txt
+[0.769s] writing requirements to ../../build/hw4_1/hw4_1.egg-info/requires.txt
+[0.769s] writing top-level names to ../../build/hw4_1/hw4_1.egg-info/top_level.txt
+[0.770s] reading manifest file '../../build/hw4_1/hw4_1.egg-info/SOURCES.txt'
+[0.770s] writing manifest file '../../build/hw4_1/hw4_1.egg-info/SOURCES.txt'
+[0.770s] running build
+[0.770s] running build_py
+[0.770s] running install
+[0.770s] running install_lib
+[0.771s] creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages/hw4_1
+[0.771s] copying /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/build/lib/hw4_1/draw_shapes.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages/hw4_1
+[0.771s] copying /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/build/lib/hw4_1/__init__.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages/hw4_1
+[0.771s] byte-compiling /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages/hw4_1/draw_shapes.py to draw_shapes.cpython-310.pyc
+[0.772s] byte-compiling /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages/hw4_1/__init__.py to __init__.cpython-310.pyc
+[0.772s] running install_data
+[0.772s] copying resource/hw4_1 -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/ament_index/resource_index/packages
+[0.772s] copying package.xml -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/hw4_1
+[0.772s] copying launch/draw_shapes_launch.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/share/hw4_1/launch
+[0.773s] running install_egg_info
+[0.774s] Copying ../../build/hw4_1/hw4_1.egg-info to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages/hw4_1-0.0.0-py3.10.egg-info
+[0.774s] running install_scripts
+[0.786s] Installing draw_shapes script to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/hw4_1
+[0.786s] writing list of installed files to '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/install.log'
+[0.800s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_1' returned '0': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hw4_1 build --build-base /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/build install --record /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_1/install.log --single-version-externally-managed install_data --force

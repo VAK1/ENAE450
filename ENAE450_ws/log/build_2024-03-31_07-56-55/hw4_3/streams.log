@@ -1,0 +1,37 @@
+[0.492s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build
+[0.640s] running develop
+[0.727s] Removing /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4-3.egg-link (link to .)
+[0.750s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3' returned '0': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build
+[0.751s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_3': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hw4_3 build --build-base /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build install --record /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/install.log --single-version-externally-managed install_data --force
+[0.888s] running egg_info
+[0.888s] writing ../../build/hw4_3/hw4_3.egg-info/PKG-INFO
+[0.889s] writing dependency_links to ../../build/hw4_3/hw4_3.egg-info/dependency_links.txt
+[0.889s] writing entry points to ../../build/hw4_3/hw4_3.egg-info/entry_points.txt
+[0.890s] writing requirements to ../../build/hw4_3/hw4_3.egg-info/requires.txt
+[0.890s] writing top-level names to ../../build/hw4_3/hw4_3.egg-info/top_level.txt
+[0.890s] reading manifest file '../../build/hw4_3/hw4_3.egg-info/SOURCES.txt'
+[0.890s] writing manifest file '../../build/hw4_3/hw4_3.egg-info/SOURCES.txt'
+[0.890s] running build
+[0.890s] running build_py
+[0.891s] copying hw4_3/turtle_driver.py -> /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build/lib/hw4_3
+[0.891s] copying hw4_3/turtle_spawner.py -> /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build/lib/hw4_3
+[0.891s] running install
+[0.892s] running install_lib
+[0.892s] creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3
+[0.892s] copying /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build/lib/hw4_3/turtle_spawner.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3
+[0.892s] copying /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build/lib/hw4_3/turtle_driver.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3
+[0.892s] copying /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build/lib/hw4_3/__init__.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3
+[0.892s] byte-compiling /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+[0.893s] byte-compiling /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3/turtle_driver.py to turtle_driver.cpython-310.pyc
+[0.893s] byte-compiling /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3/__init__.py to __init__.cpython-310.pyc
+[0.893s] running install_data
+[0.893s] copying resource/hw4_3 -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/share/ament_index/resource_index/packages
+[0.894s] copying package.xml -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/share/hw4_3
+[0.894s] copying launch/turtle_war_launch.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/share/hw4_3/launch
+[0.894s] running install_egg_info
+[0.895s] Copying ../../build/hw4_3/hw4_3.egg-info to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3-0.0.0-py3.10.egg-info
+[0.895s] running install_scripts
+[0.906s] Installing turtle_driver script to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/hw4_3
+[0.906s] Installing turtle_spawner script to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/hw4_3
+[0.906s] writing list of installed files to '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/install.log'
+[0.924s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_3' returned '0': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hw4_3 build --build-base /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build install --record /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/install.log --single-version-externally-managed install_data --force
