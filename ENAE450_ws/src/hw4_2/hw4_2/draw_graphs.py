@@ -10,6 +10,10 @@ class GraphDrawer:
         rclpy.init()
         self.node = rclpy.create_node('graph_drawer')
 
+        self.k = self.node.declare_parameter('k', 1.0).get_parameter_value().double_value
+        self.w = self.node.declare_parameter('w', 1.0).get_parameter_value().double_value
+
+
         self.publisher = self.node.create_publisher(Twist, 'turtlesim1/turtle1/cmd_vel', 10)
         self.teleport_client = self.node.create_client(TeleportAbsolute, 'turtlesim1/turtle1/teleport_absolute')
         self.set_pen_client = self.node.create_client(SetPen, 'turtlesim1/turtle1/set_pen')
@@ -19,7 +23,7 @@ class GraphDrawer:
         coordinates = []
         x = start
         while x <= end:
-            y = math.sin(x)
+            y = self.k * math.sin(self.w * x)
             coordinates.append((x, y))
             x += increment
         return coordinates
@@ -28,7 +32,7 @@ class GraphDrawer:
         coordinates = []
         x = start
         while x <= end:
-            y = math.pow(x, 3)
+            y = self.k * math.pow(x, 3)
             coordinates.append((x, y))
             x += increment
         return coordinates
