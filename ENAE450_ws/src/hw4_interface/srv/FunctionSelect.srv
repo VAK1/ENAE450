@@ -1,0 +1,6 @@
+# Request
+int64 function_id
+---
+# Response
+bool success
+string message

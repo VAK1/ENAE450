@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from hw4_interface/srv/FunctionSelect.srv
+// generated code does not contain a copyright notice
+
+
+module hw4_interface {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request")
+    struct FunctionSelect_Request {
+      int64 function_id;
+    };
+    @verbatim (language="comment", text=
+      "Response")
+    struct FunctionSelect_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

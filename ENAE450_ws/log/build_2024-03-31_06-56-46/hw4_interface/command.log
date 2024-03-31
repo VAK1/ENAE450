@@ -1,0 +1,2 @@
+Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface': /usr/bin/cmake /home/ubuntu/ENAE450/ENAE450_ws/src/hw4_interface -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface
+Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_interface' returned '1': /usr/bin/cmake /home/ubuntu/ENAE450/ENAE450_ws/src/hw4_interface -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_interface

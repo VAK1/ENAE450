@@ -1,0 +1,13 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from hw4_interface/msg/TurtleArray.msg
+// generated code does not contain a copyright notice
+
+#include "hw4_interface/msg/Turtle.idl"
+
+module hw4_interface {
+  module msg {
+    struct TurtleArray {
+      sequence<hw4_interface::msg::Turtle> array;
+    };
+  };
+};

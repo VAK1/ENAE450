@@ -1,0 +1,9 @@
+{
+  "package_name": "hw4_interface",
+  "non_idl_tuples": [
+    "/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_interface:msg/Turtle.msg",
+    "/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_interface:msg/TurtleArray.msg",
+    "/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_interface:srv/CatchTurtle.srv",
+    "/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_interface:srv/FunctionSelect.srv"
+  ]
+}
