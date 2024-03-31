@@ -1,0 +1,28 @@
+[0.574s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build
+[0.736s] running develop
+[0.823s] Removing /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4-3.egg-link (link to .)
+[0.847s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3' returned '0': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build
+[0.847s] Invoking command in '/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_3': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hw4_3 build --build-base /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build install --record /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/install.log --single-version-externally-managed install_data --force
+[0.989s] running egg_info
+[0.989s] writing ../../build/hw4_3/hw4_3.egg-info/PKG-INFO
+[0.989s] writing dependency_links to ../../build/hw4_3/hw4_3.egg-info/dependency_links.txt
+[0.989s] writing entry points to ../../build/hw4_3/hw4_3.egg-info/entry_points.txt
+[0.989s] writing requirements to ../../build/hw4_3/hw4_3.egg-info/requires.txt
+[0.990s] writing top-level names to ../../build/hw4_3/hw4_3.egg-info/top_level.txt
+[0.990s] reading manifest file '../../build/hw4_3/hw4_3.egg-info/SOURCES.txt'
+[0.991s] writing manifest file '../../build/hw4_3/hw4_3.egg-info/SOURCES.txt'
+[0.992s] running build
+[0.992s] running build_py
+[0.992s] running install
+[0.992s] running install_lib
+[0.992s] creating /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3
+[0.993s] copying /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build/lib/hw4_3/__init__.py -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3
+[0.993s] byte-compiling /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3/__init__.py to __init__.cpython-310.pyc
+[0.993s] running install_data
+[0.993s] copying resource/hw4_3 -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/share/ament_index/resource_index/packages
+[0.993s] copying package.xml -> /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/share/hw4_3
+[0.993s] running install_egg_info
+[0.994s] Copying ../../build/hw4_3/hw4_3.egg-info to /home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages/hw4_3-0.0.0-py3.10.egg-info
+[0.995s] running install_scripts
+[1.007s] writing list of installed files to '/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/install.log'
+[1.026s] Invoked command in '/home/ubuntu/ENAE450/ENAE450_ws/src/hw4_3' returned '0': PYTHONPATH=/home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/prefix_override:/home/ubuntu/ENAE450/ENAE450_ws/install/hw4_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hw4_3 build --build-base /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/build install --record /home/ubuntu/ENAE450/ENAE450_ws/build/hw4_3/install.log --single-version-externally-managed install_data --force
