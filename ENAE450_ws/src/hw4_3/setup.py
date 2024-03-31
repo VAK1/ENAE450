@@ -23,8 +23,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "turtle_driver = hw4_3.turtle_driver.main",
-            "turtle_spawner = hw4_3.turtle_spawner.main"
+            "turtle_driver = hw4_3.turtle_driver:main",
+            "turtle_spawner = hw4_3.turtle_spawner:main"
         ],
     },
 )
